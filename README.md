@@ -7,4 +7,4 @@ This is a repository with links to help you learn and practice git.
 
 <a href="https://education.github.com/git-cheat-sheet-education.pdf">Git Cheat Sheet</a>
 
-<a href="https://try.github.io/">Try GItHub</a>
+<a href="https://try.github.io/">Try GitHub</a>
